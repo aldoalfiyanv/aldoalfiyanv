@@ -1,4 +1,7 @@
-### Hi there 👋 i am Aldo Alfiyan Vananda
+### Hi there 👋 i am <a href="https://aldoalfiyanv.github.io/">Aldo Alfiyan Vananda, A.Md.T</a> 
+
+📫 How to reach me:
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldoalfiyanv/)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Faldoalfiyanv&screen_name=aldoalfiyanv)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aldoalfiyanv/?hl=id)
 
