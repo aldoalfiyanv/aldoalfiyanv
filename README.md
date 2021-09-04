@@ -7,7 +7,7 @@ I am a fresh graduate of computer engineering diploma currently I work in the Ba
 - 🌱 I’m currently learning everything about technology and gadget 
 - 😄 I’m hobby play Mobile Legend Bang Bang
 - 🥅 Goals: Success in this world and the hereafter
-- ⚡ Fun fact: I love she but she don't love me 🤣
+- ⚡ Fun fact: I love she but she doesn't love me 🤣
 
 ![Aldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldoalfiyanv&count_private=true&show_icons=true&theme=blue-green&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldoalfiyanv&langs_count=8&layout=compact&theme=blue-green&hide_border=true)
