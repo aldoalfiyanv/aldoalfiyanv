@@ -3,7 +3,7 @@
 [![Facebook Add](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/aldoalfiyanv/)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aldoalfiyanv/?hl=id)
 
-I am a fresh graduate of Computer Engineering Associate's Degree currently i work in the Back End Developer and IT Business/Strategic Partner of PT. Bank Negara Indonesia (Persero).Tbk
+I am a fresh graduate of Computer Engineering Associate's Degree currently i work in IT Business/Strategic Partner of PT. Bank Negara Indonesia (Persero).Tbk
 - 🤖 I’m interest everything about technology and gadget 
 - 🎮 I’m hobby play Mobile Legend Bang Bang
 - 🥅 Goals: Success in this world and the hereafter
